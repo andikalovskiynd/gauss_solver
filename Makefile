@@ -9,7 +9,7 @@ else
     # Linux (including CI)
 	GTEST_INC_DIR ?= /usr/local/include
 	GTEST_LIB_DIR ?= /usr/local/lib
-	EIGEN_INC_DIR ?= /usr/local/include/eigen3
+	EIGEN_INC_DIR ?= /usr/include/eigen3
 endif
 
 CXX = g++
