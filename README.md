@@ -6,6 +6,7 @@ This program takes a .csv file, solving a system by Gauss method and then writin
 * `C++ 20`
 * `make`
 * `gtest`
+* `Eigen`
 
 ## Build 
 ``` Bash
